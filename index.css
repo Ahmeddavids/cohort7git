@@ -24,6 +24,11 @@ h1{
         color: green;
         background-color: gray;
     }
+    footer{
+        background-color: black;
+         
+    }
+    
     .davids{
         width: 200px;
         height: 200px;
